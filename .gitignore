@@ -1,0 +1,26 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Temporary files and backups
+*.bkp
+*.~*
+*.tmp
+*.bak
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environments and python cache (if any)
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Text files generated for debugging (if you want to exclude them, remove the #)
+# v8_content.txt
